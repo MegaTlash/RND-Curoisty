@@ -1,0 +1,25 @@
+2021-02-18 23:25:27,475 INFO    MainThread:110660 [internal.py:wandb_internal():88] W&B internal server running at pid: 110660, started at: 2021-02-18 23:25:27.473992
+2021-02-18 23:25:27,480 DEBUG   HandlerThread:110660 [handler.py:handle_request():94] handle_request: check_version
+2021-02-18 23:25:27,480 INFO    WriterThread:110660 [datastore.py:open_for_write():77] open: /home/100654699/Thesis/Mario_PPO_RNN/wandb/run-20210218_232526-1b4cjij7/run-1b4cjij7.wandb
+2021-02-18 23:25:27,484 DEBUG   SenderThread:110660 [sender.py:send():117] send: header
+2021-02-18 23:25:27,485 DEBUG   SenderThread:110660 [sender.py:send():117] send: request
+2021-02-18 23:25:27,485 DEBUG   SenderThread:110660 [sender.py:send_request():126] send_request: check_version
+2021-02-18 23:25:27,573 DEBUG   SenderThread:110660 [sender.py:send():117] send: run
+2021-02-18 23:25:27,578 DEBUG   SenderThread:110660 [git.py:repo():33] git repository is invalid
+2021-02-18 23:25:27,697 INFO    SenderThread:110660 [sender.py:_start_run_threads():593] run started: 1b4cjij7 with start time 1613708726
+2021-02-18 23:25:27,698 DEBUG   SenderThread:110660 [sender.py:send():117] send: summary
+2021-02-18 23:25:27,698 INFO    SenderThread:110660 [sender.py:_save_file():682] saving file wandb-summary.json with policy end
+2021-02-18 23:25:27,703 DEBUG   HandlerThread:110660 [handler.py:handle_request():94] handle_request: run_start
+2021-02-18 23:25:27,707 DEBUG   HandlerThread:110660 [meta.py:__init__():34] meta init
+2021-02-18 23:25:27,708 DEBUG   HandlerThread:110660 [meta.py:__init__():48] meta init done
+2021-02-18 23:25:27,708 DEBUG   HandlerThread:110660 [meta.py:probe():190] probe
+2021-02-18 23:25:27,711 DEBUG   HandlerThread:110660 [git.py:repo():33] git repository is invalid
+2021-02-18 23:25:27,711 DEBUG   HandlerThread:110660 [meta.py:_save_pip():52] save pip
+2021-02-18 23:25:27,712 DEBUG   HandlerThread:110660 [meta.py:_save_pip():66] save pip done
+2021-02-18 23:25:27,712 DEBUG   HandlerThread:110660 [meta.py:probe():231] probe done
+2021-02-18 23:25:27,719 DEBUG   SenderThread:110660 [sender.py:send():117] send: files
+2021-02-18 23:25:27,719 INFO    SenderThread:110660 [sender.py:_save_file():682] saving file wandb-metadata.json with policy now
+2021-02-18 23:25:27,732 DEBUG   HandlerThread:110660 [handler.py:handle_request():94] handle_request: status
+2021-02-18 23:25:27,733 DEBUG   SenderThread:110660 [sender.py:send():117] send: request
+2021-02-18 23:25:27,733 DEBUG   SenderThread:110660 [sender.py:send_request():126] send_request: status
+2021-02-18 23:25:29,293 WARNING MainThread:110660 [internal.py:wandb_internal():146] Internal process interrupt: 1

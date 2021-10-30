@@ -1,0 +1,10 @@
+Using RND agent
+DEVICE:  cuda
+Traceback (most recent call last):
+  File "train.py", line 370, in <module>
+    main()
+  File "train.py", line 140, in main
+    wandb.watch(agent)
+  File "/home/100654699/.local/lib/python3.8/site-packages/wandb/sdk/wandb_watch.py", line 68, in watch
+    raise ValueError(
+ValueError: Expected a pytorch model (torch.nn.Module). Received <class 'agents.RNDAgent'>
