@@ -1,2 +1,2 @@
-# Legend of Zelda AI with Reinforcement Learning
+# RND- Curiosity testing with other models
 
