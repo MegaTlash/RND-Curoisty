@@ -9,7 +9,7 @@
 
 
 
-###PPO-RND with Intrinsic Reward Only
+### PPO-RND with Intrinsic Reward Only
 
 
 https://github.com/MegaTlash/RND-Curoisty/assets/34694693/9dc6322b-75ca-4d14-bdf6-a3748062c7ca
