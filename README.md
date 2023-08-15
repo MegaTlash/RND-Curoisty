@@ -1,2 +1,3 @@
-# RND- Curiosity testing with other models
+# RND- Curiosity testing with other models (Undergrad Thesis)
+
 
